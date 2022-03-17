@@ -1,0 +1,14 @@
+1) Font 
+2) color Scheme
+3)  nav bar - menu icon on left, sunflower on right, For Teresa in middle for now
+4)  sections
+    1) nav
+    2) headline
+        -Messages to
+    3) headline
+        - Pictures - connect to specific story?
+    4) headline
+        Stories -
+    5) Spotify playist - view, add 
+
+5) responsive design - 3 sizes - small/phone, medium/tablet, large/computer
